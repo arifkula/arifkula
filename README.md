@@ -1,8 +1,8 @@
-- 👋 Selam, Ben @arifkula
+- 👋 @arifkula
 - 👀 Daha iyi bir Dünya için Teknoloji.
-- 🌱 Bu aralar web 3.0 ve Merkeziyetsiz sistem tasarımlarına kafa yoruyorum. 
-- 💞️ Merkeziyetsiz yapıda MarketPlace veya Twitter tarzı Mesajlajma öncelikli konularım.
-- 📫 Bana linkedin.com/arifkula üzerinden ulaşaiblirsiniz.
+- 🌱 web 3.0 ve Merkeziyetsiz sistem tasarımlarına kafa yoruyorum. 
+- 💞️ Merkeziyetsiz yapıda MarketPlace veya Twitter tarzı Mesajlajma öncelikli konular.
+- 📫 linkedin.com/arifkula üzerinden ulaşaiblirsiniz.
 
 <!---
 arifkula/arifkula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
