@@ -1,8 +1,8 @@
 - 👋 @arifkula
 - 👀 Daha iyi bir Dünya için Teknoloji.
-- 🌱 web 3.0 ve Merkeziyetsiz sistem tasarımlarına kafa yoruyorum. 
-- 💞️ Merkeziyetsiz yapıda MarketPlace veya Twitter tarzı Mesajlajma öncelikli konular.
-- 📫 linkedin.com/arifkula üzerinden ulaşaiblirsiniz.
+- 🌱 Daha adil bir dünya için Merkeziyetsiz Para. 
+- 💞️ Daha iyisi için Merkeziyetsiz eTicaret ve Sosyal Medya.
+- 📫 linkedin.com/arifkula.
 
 <!---
 arifkula/arifkula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
